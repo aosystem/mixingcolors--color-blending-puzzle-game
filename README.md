@@ -6,6 +6,9 @@ A sophisticated and engaging **Color-Mixing Puzzle** built with **Flutter**. Thi
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6755033305)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/xyfXguJb9UE/0.jpg)](https://www.youtube.com/watch?v=xyfXguJb9UE)
+
 ## 🌟 Key Features
 - **Dynamic Color Blending:** Realistic color mixing logic that simulates how pigments or light interact.
 - **Progressive Difficulty:** Starts with simple primary colors and evolves into complex, multi-layered shades.
